@@ -1,0 +1,24 @@
+msgid "My Account"
+msgstr "Mein Account"
+
+msgid "Change password"
+msgstr "Passwort ändern"
+
+msgid "Functions"
+msgstr "Funktionen"
+
+#: /views/users/register.ctp:29;85
+msgid "I have read and agreed to "
+msgstr "Ich habe gelesen und akzeptiere die "
+
+msgid "Role"
+msgstr "Rolle"
+
+msgid "Is Admin"
+msgstr "Administrator"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "List Users"
+msgstr "Benutzerliste"
